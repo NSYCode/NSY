@@ -10,6 +10,14 @@ body{
     background-color: lightgrey;
 }
 
+.logo{
+    transition: 2.1s;
+}
+
+.logo:hover{
+    color: black;
+}
+
 .navbar{
     padding: 34px;
     display: flex;
