@@ -23,6 +23,10 @@ body{
     position: relative;
 }
 
+.nav-link:hover{
+    color: black;
+}
+
 .menu-icon{
     cursor: pointer;
     font-size: 24px;
