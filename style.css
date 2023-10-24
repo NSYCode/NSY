@@ -60,6 +60,8 @@ body{
         margin-top: 50px;
         flex-direction: column;
         margin-left: auto;
+        top: 100%;
+        transition: 2.1s;
     }
     .navbar-links a{
         transition: 1.7s;
@@ -77,6 +79,7 @@ body{
         display: flex;
         flex-direction: column;
         transition: 1.7s;
+        top: 0;
     }
     .nav-link{
         margin: 10px 0;
